@@ -1,0 +1,13 @@
+{
+    "name": "phamthao/php-mvc",
+    "description": "Php mvc",
+    "type": "project",
+    "authors": [
+        {
+            "name": "phamthao",
+            "email": "phamthao03596@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
