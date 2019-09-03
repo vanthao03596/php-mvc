@@ -2,6 +2,7 @@
 use Jenssegers\Blade\Blade;
 
 require('core/helpers/functions.php');
+require ('core/Database.php');
 
 $blade = new Blade('views', 'storage/views');
 
